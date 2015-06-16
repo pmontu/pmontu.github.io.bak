@@ -1,0 +1,30 @@
+{
+  "name": "site",
+  "version": "0.0.0",
+  "authors": [
+    "Manoj <pmontu@gmail.com>"
+  ],
+  "description": "learning and test aimed for making a polymer blog",
+  "main": "index.html",
+  "keywords": [
+    "blog",
+    "programming",
+    "technical",
+    "artifical",
+    "intelligence",
+    "social",
+    "networks"
+  ],
+  "license": "MIT",
+  "homepage": "http://pmontu.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
